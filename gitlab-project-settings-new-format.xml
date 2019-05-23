@@ -1,0 +1,30 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.eu-de.bluemix.net/christophe.resse/Tutorial-JavaWebAppwithSpring.git" />
+          <option name="name" value="Tutorial-JavaWebAppwithSpring" />
+          <option name="namespace" value="christophe.resse" />
+          <option name="sshUrl" value="git@git.eu-de.bluemix.net:christophe.resse/Tutorial-JavaWebAppwithSpring.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.eu-de.bluemix.net/christophe.resse/Tutorial-JavaWebAppwithSpring.git" />
+          <option name="name" value="Tutorial-JavaWebAppwithSpring" />
+          <option name="namespace" value="christophe.resse" />
+          <option name="sshUrl" value="git@git.eu-de.bluemix.net:christophe.resse/Tutorial-JavaWebAppwithSpring.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="Lqfi8RpQCd-UJcJx9ips" />
+          <option name="apiUrl" value="https://git.eu-de.bluemix.net" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="git.eu-de.bluemix.net" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
