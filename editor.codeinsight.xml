@@ -2,9 +2,8 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseI18nMessages" value="false" />
-    <option name="collapseOneLineMethods" value="false" />
-    <option name="collapseSuppressWarnings" value="false" />
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseBlockExpressions" value="true" />
+    <option name="COLLAPSE_BLOCK_EXPRESSIONS" value="true" />
   </component>
 </application>
