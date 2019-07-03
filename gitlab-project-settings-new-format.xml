@@ -26,7 +26,7 @@
         </GitlabServer>
         <GitlabServer>
           <option name="apiToken" value="py9-hqgCg32t_x4mqPyS" />
-          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="apiUrl" value="https://gitlab.com/" />
           <option name="preferredConnection" value="HTTPS" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
