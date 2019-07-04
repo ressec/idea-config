@@ -24,6 +24,12 @@
           <option name="preferredConnection" value="HTTPS" />
           <option name="repositoryUrl" value="git.eu-de.bluemix.net" />
         </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="uwCpYxQCrrCNJ4HzhrZx" />
+          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
       </list>
     </option>
   </component>
