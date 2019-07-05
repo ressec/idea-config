@@ -950,6 +950,72 @@
           <option name="namespace" value="Trias Group" />
           <option name="sshUrl" value="git@gitlab.com:trias-group/emeal.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://eu-de.git.cloud.ibm.com/christophe.resse/Tutorial-JavaWebAppwithSpring.git" />
+          <option name="name" value="Tutorial-JavaWebAppwithSpring" />
+          <option name="namespace" value="christophe.resse" />
+          <option name="sshUrl" value="git@eu-de.git.cloud.ibm.com:christophe.resse/Tutorial-JavaWebAppwithSpring.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/hemajoo/funny-quizz.git" />
+          <option name="name" value="funny-quizz" />
+          <option name="namespace" value="Hemajoo" />
+          <option name="sshUrl" value="git@gitlab.com:hemajoo/funny-quizz.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/android-quizz.git" />
+          <option name="name" value="android-quizz" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/android-quizz.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/demeter.git" />
+          <option name="name" value="demeter" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/demeter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/drake.git" />
+          <option name="name" value="drake" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/drake.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/sexfriend.git" />
+          <option name="name" value="friends" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/sexfriend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/hestia.git" />
+          <option name="name" value="hestia" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/hestia.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/icare.git" />
+          <option name="name" value="icare" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/icare.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/kakoofunnygames.git" />
+          <option name="name" value="KakooFunnyGames" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/kakoofunnygames.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ressec/resse-christophe.git" />
+          <option name="name" value="resse-christophe" />
+          <option name="namespace" value="ressec" />
+          <option name="sshUrl" value="git@gitlab.com:ressec/resse-christophe.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/trias-group/emeal.git" />
+          <option name="name" value="emeal" />
+          <option name="namespace" value="Trias Group" />
+          <option name="sshUrl" value="git@gitlab.com:trias-group/emeal.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
