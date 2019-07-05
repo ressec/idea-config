@@ -82,8 +82,12 @@
           <option name="url" value="https://github.com/ressec/thot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jMonkeyEngine/jmonkeyengine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/github.com/ressec" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/github.com/other" />
   </component>
 </application>
