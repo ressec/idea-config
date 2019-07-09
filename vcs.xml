@@ -94,8 +94,12 @@
           <option name="url" value="https://github.com/ressec/heliosphere.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hemajoo/hemajoo-foundation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/github.com/ressec" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/github.com/hemajoo" />
   </component>
 </application>
