@@ -24,4 +24,36 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="EFFECT_COLOR" value="8c999b" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="16c008" />
+      <option name="EFFECT_COLOR" value="8e999b" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bdebug\b.*">
+      <option name="FOREGROUND" value="c07cbe" />
+      <option name="EFFECT_COLOR" value="89999b" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\breview\b.*">
+      <option name="FOREGROUND" value="bfc0" />
+      <option name="EFFECT_COLOR" value="8d989b" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <filter name="DEBUG">
+      <pattern index="2" />
+    </filter>
+    <filter name="REVIEW">
+      <pattern index="-1" />
+    </filter>
+  </component>
 </application>
