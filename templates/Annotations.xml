@@ -1,0 +1,7 @@
+<templateSet group="Annotations">
+  <template name="..sw" value="@SuppressWarnings(&quot;unchecked&quot;)" description="Add a suppress warnings unchecked annotation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
