@@ -4,7 +4,24 @@
       <array />
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="visualStudioTfClientPath" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="tfvcUseReactiveClientV2" />
+          <option name="value" value="true" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="reactiveClientMemory" />
+          <option name="value" value="2048" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
