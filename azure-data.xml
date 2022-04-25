@@ -1,0 +1,12 @@
+<application>
+  <component name="Azure Toolkit for IntelliJ">
+    <option name="properties">
+      <map>
+        <entry key="account.auth_method_detail" value="{&quot;accountEmail&quot;:&quot;Christophe.Resse@kyndryl.com&quot;,&quot;tenantId&quot;:null,&quot;clientId&quot;:&quot;04b07795-8ddb-461a-bbee-02f9e1bf7b46&quot;,&quot;credFilePath&quot;:null,&quot;certificate&quot;:null,&quot;authMethod&quot;:&quot;IDENTITY&quot;,&quot;azureEnv&quot;:&quot;AzureCloud&quot;,&quot;authType&quot;:&quot;OAUTH2&quot;,&quot;tenantIds&quot;:[],&quot;subscriptions&quot;:[]}" />
+        <entry key="account.azure_environment" value="Azure" />
+        <entry key="telemetry.telemetry_allow_telemetry" value="true" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.63.1-2022.1" />
+      </map>
+    </option>
+  </component>
+</application>

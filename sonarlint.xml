@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.k8s-dam-dev-a19fe168445bd781eeb95cecb0df6e59-0000.us-south.containers.appdomain.cloud" />
+          <token>df9bdf9fdf9edf9fdf9bdf92dfc8df9cdf92df92dfcbdfc9df9ddf9fdf9edf9edf9ddf92dfc9df9cdfccdf99df98df98df9ddf92dfcbdf93dfc9dfcbdfcbdfc9df99df9adf9cdf9adf9cdf93df9adf9c</token>
+          <option name="name" value="kyndryl" />
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfcfdfcfdfc9df9cdfcedfc9dfc9df9adf9edfcfdfc8df9cdfcfdf9edfcedf98dfc9dfc8df9cdfccdf9bdfcedf9ddfcbdf92dfcfdf9adfc8df99dfc9dfcbdfccdfcfdf9edfccdfcedfccdfc8dfccdfcf</token>
+          <option name="name" value="github-ressec" />
+          <organizationKey>ressec-github</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
