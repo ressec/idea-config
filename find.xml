@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/titan-core-character/src/main/java/com/hemajoo/game/titan/core/character/base/ICharacter.java [titan-core-character]'" />
+    <option name="defaultScopeName" value="File '…/titan-core-character/src/main/java/com/hemajoo/game/titan/core/character/base/ICharacter.java [titan-core-character]'" />
+    <option name="SEARCH_SCOPE" value="File '…/titan-core-character/src/main/java/com/hemajoo/game/titan/core/character/base/ICharacter.java [titan-core-character]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
