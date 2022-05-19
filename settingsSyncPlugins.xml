@@ -96,6 +96,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.properties.bundle.editor">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.xml" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellj.plugin.SpringBootBannerPlugin">
           <value>
             <PluginData>
