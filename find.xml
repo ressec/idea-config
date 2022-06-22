@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '…/pims-commons-connectors/src/main/java/com/kyndryl/privacy/commons/engineering/services/pims/connector [pims-commons-connectors]'" />
+    <option name="defaultScopeName" value="Directory '…/pims-commons-connectors/src/main/java/com/kyndryl/privacy/commons/engineering/services/pims/connector [pims-commons-connectors]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/pims-commons-connectors/src/main/java/com/kyndryl/privacy/commons/engineering/services/pims/connector [pims-commons-connectors]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
