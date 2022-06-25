@@ -13,6 +13,24 @@
           <option name="name" value="github-ressec" />
           <organizationKey>ressec-github</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9bdfcedf93df9edf92df93df92df99dfc8dfcedfcedf9edf9edf98dfccdf9bdf9cdf98dfc9df9adf9cdf99df9edf9edfc9df99df9bdf92dfcbdfcedf98dfcbdfc9df92df93df99df93df9cdf98df9f</token>
+          <option name="name" value="Hemajoo Commerce" />
+          <organizationKey>hemajoo-commerce</organizationKey>
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9bdfcedf93df9edf92df93df92df99dfc8dfcedfcedf9edf9edf98dfccdf9bdf9cdf98dfc9df9adf9cdf99df9edf9edfc9df99df9bdf92dfcbdfcedf98dfcbdfc9df92df93df99df93df9cdf98df9f</token>
+          <option name="name" value="ResseC" />
+          <organizationKey>ressec-github</organizationKey>
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9bdfcedf93df9edf92df93df92df99dfc8dfcedfcedf9edf9edf98dfccdf9bdf9cdf98dfc9df9adf9cdf99df9edf9edfc9df99df9bdf92dfcbdfcedf98dfcbdfc9df92df93df99df93df9cdf98df9f</token>
+          <option name="name" value="Hemajoo" />
+          <organizationKey>hemajoo</organizationKey>
+        </SonarQubeServer>
       </list>
     </option>
     <rules />
