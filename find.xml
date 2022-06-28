@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/cherry-server-commons/src/main/java/com/hemajoo/commerce/cherry/server/commons/type/StatusType.java [cherry-server-commons]'" />
-    <option name="defaultScopeName" value="File '…/cherry-server-commons/src/main/java/com/hemajoo/commerce/cherry/server/commons/type/StatusType.java [cherry-server-commons]'" />
-    <option name="SEARCH_SCOPE" value="File '…/cherry-server-commons/src/main/java/com/hemajoo/commerce/cherry/server/commons/type/StatusType.java [cherry-server-commons]'" />
+    <option name="customScope" value="File '…/cherry-server-shared/src/main/java/com/hemajoo/commerce/cherry/server/shared/exception/CherryException.java [cherry-server-shared]'" />
+    <option name="defaultScopeName" value="File '…/cherry-server-shared/src/main/java/com/hemajoo/commerce/cherry/server/shared/exception/CherryException.java [cherry-server-shared]'" />
+    <option name="SEARCH_SCOPE" value="File '…/cherry-server-shared/src/main/java/com/hemajoo/commerce/cherry/server/shared/exception/CherryException.java [cherry-server-shared]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
