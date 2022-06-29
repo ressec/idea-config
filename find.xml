@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/cherry-server-shared/src/main/java/com/hemajoo/commerce/cherry/server/shared/entity/base/AbstractClientStatusEntity.java [cherry-server-shared]'" />
-    <option name="defaultScopeName" value="File '…/cherry-server-shared/src/main/java/com/hemajoo/commerce/cherry/server/shared/entity/base/AbstractClientStatusEntity.java [cherry-server-shared]'" />
-    <option name="SEARCH_SCOPE" value="File '…/cherry-server-shared/src/main/java/com/hemajoo/commerce/cherry/server/shared/entity/base/AbstractClientStatusEntity.java [cherry-server-shared]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
