@@ -59,6 +59,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="cn.alanhe.plugin.openWithApplication">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.codestream.jetbrains-codestream">
           <value>
             <PluginData>
