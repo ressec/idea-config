@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/cherry-data-model/src/main/java/com/hemajoo/commerce/cherry/base/data/model/base/DataModelEntity.java [cherry-data-model]'" />
+    <option name="defaultScopeName" value="File '…/cherry-data-model/src/main/java/com/hemajoo/commerce/cherry/base/data/model/base/DataModelEntity.java [cherry-data-model]'" />
+    <option name="SEARCH_SCOPE" value="File '…/cherry-data-model/src/main/java/com/hemajoo/commerce/cherry/base/data/model/base/DataModelEntity.java [cherry-data-model]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
