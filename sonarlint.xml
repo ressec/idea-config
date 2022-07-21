@@ -1,5 +1,699 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:NoSonar">
+          <value>
+            <Rule key="java:NoSonar" />
+          </value>
+        </entry>
+        <entry key="java:S103">
+          <value>
+            <Rule key="java:S103" />
+          </value>
+        </entry>
+        <entry key="java:S104">
+          <value>
+            <Rule key="java:S104" />
+          </value>
+        </entry>
+        <entry key="java:S105">
+          <value>
+            <Rule key="java:S105" />
+          </value>
+        </entry>
+        <entry key="java:S1067">
+          <value>
+            <Rule key="java:S1067" />
+          </value>
+        </entry>
+        <entry key="java:S109">
+          <value>
+            <Rule key="java:S109" />
+          </value>
+        </entry>
+        <entry key="java:S1105">
+          <value>
+            <Rule key="java:S1105" />
+          </value>
+        </entry>
+        <entry key="java:S1106">
+          <value>
+            <Rule key="java:S1106" />
+          </value>
+        </entry>
+        <entry key="java:S1107">
+          <value>
+            <Rule key="java:S1107" />
+          </value>
+        </entry>
+        <entry key="java:S1108">
+          <value>
+            <Rule key="java:S1108" />
+          </value>
+        </entry>
+        <entry key="java:S1109">
+          <value>
+            <Rule key="java:S1109" />
+          </value>
+        </entry>
+        <entry key="java:S1120">
+          <value>
+            <Rule key="java:S1120" />
+          </value>
+        </entry>
+        <entry key="java:S113">
+          <value>
+            <Rule key="java:S113" />
+          </value>
+        </entry>
+        <entry key="java:S1132">
+          <value>
+            <Rule key="java:S1132" />
+          </value>
+        </entry>
+        <entry key="java:S1142">
+          <value>
+            <Rule key="java:S1142" />
+          </value>
+        </entry>
+        <entry key="java:S1147">
+          <value>
+            <Rule key="java:S1147" />
+          </value>
+        </entry>
+        <entry key="java:S1151">
+          <value>
+            <Rule key="java:S1151" />
+          </value>
+        </entry>
+        <entry key="java:S1160">
+          <value>
+            <Rule key="java:S1160" />
+          </value>
+        </entry>
+        <entry key="java:S1162">
+          <value>
+            <Rule key="java:S1162" />
+          </value>
+        </entry>
+        <entry key="java:S1166">
+          <value>
+            <Rule key="java:S1166" />
+          </value>
+        </entry>
+        <entry key="java:S1176">
+          <value>
+            <Rule key="java:S1176" />
+          </value>
+        </entry>
+        <entry key="java:S118">
+          <value>
+            <Rule key="java:S118" />
+          </value>
+        </entry>
+        <entry key="java:S1188">
+          <value>
+            <Rule key="java:S1188" />
+          </value>
+        </entry>
+        <entry key="java:S1194">
+          <value>
+            <Rule key="java:S1194" />
+          </value>
+        </entry>
+        <entry key="java:S1200">
+          <value>
+            <Rule key="java:S1200" />
+          </value>
+        </entry>
+        <entry key="java:S121">
+          <value>
+            <Rule key="java:S121" />
+          </value>
+        </entry>
+        <entry key="java:S1213">
+          <value>
+            <Rule key="java:S1213" />
+          </value>
+        </entry>
+        <entry key="java:S122">
+          <value>
+            <Rule key="java:S122" />
+          </value>
+        </entry>
+        <entry key="java:S1228">
+          <value>
+            <Rule key="java:S1228" />
+          </value>
+        </entry>
+        <entry key="java:S1244">
+          <value>
+            <Rule key="java:S1244" />
+          </value>
+        </entry>
+        <entry key="java:S1258">
+          <value>
+            <Rule key="java:S1258" />
+          </value>
+        </entry>
+        <entry key="java:S126">
+          <value>
+            <Rule key="java:S126" />
+          </value>
+        </entry>
+        <entry key="java:S1309">
+          <value>
+            <Rule key="java:S1309" />
+          </value>
+        </entry>
+        <entry key="java:S1310">
+          <value>
+            <Rule key="java:S1310" />
+          </value>
+        </entry>
+        <entry key="java:S1312">
+          <value>
+            <Rule key="java:S1312" />
+          </value>
+        </entry>
+        <entry key="java:S1314">
+          <value>
+            <Rule key="java:S1314" />
+          </value>
+        </entry>
+        <entry key="java:S1315">
+          <value>
+            <Rule key="java:S1315" />
+          </value>
+        </entry>
+        <entry key="java:S134">
+          <value>
+            <Rule key="java:S134" />
+          </value>
+        </entry>
+        <entry key="java:S138">
+          <value>
+            <Rule key="java:S138" />
+          </value>
+        </entry>
+        <entry key="java:S139">
+          <value>
+            <Rule key="java:S139" />
+          </value>
+        </entry>
+        <entry key="java:S1448">
+          <value>
+            <Rule key="java:S1448" />
+          </value>
+        </entry>
+        <entry key="java:S1449">
+          <value>
+            <Rule key="java:S1449" />
+          </value>
+        </entry>
+        <entry key="java:S1451">
+          <value>
+            <Rule key="java:S1451" />
+          </value>
+        </entry>
+        <entry key="java:S1541">
+          <value>
+            <Rule key="java:S1541" />
+          </value>
+        </entry>
+        <entry key="java:S1641">
+          <value>
+            <Rule key="java:S1641" />
+          </value>
+        </entry>
+        <entry key="java:S1694">
+          <value>
+            <Rule key="java:S1694" />
+          </value>
+        </entry>
+        <entry key="java:S1695">
+          <value>
+            <Rule key="java:S1695" />
+          </value>
+        </entry>
+        <entry key="java:S1696">
+          <value>
+            <Rule key="java:S1696" />
+          </value>
+        </entry>
+        <entry key="java:S1698">
+          <value>
+            <Rule key="java:S1698" />
+          </value>
+        </entry>
+        <entry key="java:S1699">
+          <value>
+            <Rule key="java:S1699" />
+          </value>
+        </entry>
+        <entry key="java:S1711">
+          <value>
+            <Rule key="java:S1711" />
+          </value>
+        </entry>
+        <entry key="java:S1774">
+          <value>
+            <Rule key="java:S1774" />
+          </value>
+        </entry>
+        <entry key="java:S1820">
+          <value>
+            <Rule key="java:S1820" />
+          </value>
+        </entry>
+        <entry key="java:S1821">
+          <value>
+            <Rule key="java:S1821" />
+          </value>
+        </entry>
+        <entry key="java:S1939">
+          <value>
+            <Rule key="java:S1939" />
+          </value>
+        </entry>
+        <entry key="java:S1941">
+          <value>
+            <Rule key="java:S1941" />
+          </value>
+        </entry>
+        <entry key="java:S1942">
+          <value>
+            <Rule key="java:S1942" />
+          </value>
+        </entry>
+        <entry key="java:S1943">
+          <value>
+            <Rule key="java:S1943" />
+          </value>
+        </entry>
+        <entry key="java:S1996">
+          <value>
+            <Rule key="java:S1996" />
+          </value>
+        </entry>
+        <entry key="java:S2039">
+          <value>
+            <Rule key="java:S2039" />
+          </value>
+        </entry>
+        <entry key="java:S2047">
+          <value>
+            <Rule key="java:S2047" />
+          </value>
+        </entry>
+        <entry key="java:S2057">
+          <value>
+            <Rule key="java:S2057" />
+          </value>
+        </entry>
+        <entry key="java:S2059">
+          <value>
+            <Rule key="java:S2059" />
+          </value>
+        </entry>
+        <entry key="java:S2063">
+          <value>
+            <Rule key="java:S2063" />
+          </value>
+        </entry>
+        <entry key="java:S2096">
+          <value>
+            <Rule key="java:S2096" />
+          </value>
+        </entry>
+        <entry key="java:S2131">
+          <value>
+            <Rule key="java:S2131" />
+          </value>
+        </entry>
+        <entry key="java:S2141">
+          <value>
+            <Rule key="java:S2141" />
+          </value>
+        </entry>
+        <entry key="java:S2143">
+          <value>
+            <Rule key="java:S2143" />
+          </value>
+        </entry>
+        <entry key="java:S2148">
+          <value>
+            <Rule key="java:S2148" />
+          </value>
+        </entry>
+        <entry key="java:S2156">
+          <value>
+            <Rule key="java:S2156" />
+          </value>
+        </entry>
+        <entry key="java:S2162">
+          <value>
+            <Rule key="java:S2162" />
+          </value>
+        </entry>
+        <entry key="java:S2164">
+          <value>
+            <Rule key="java:S2164" />
+          </value>
+        </entry>
+        <entry key="java:S2196">
+          <value>
+            <Rule key="java:S2196" />
+          </value>
+        </entry>
+        <entry key="java:S2197">
+          <value>
+            <Rule key="java:S2197" />
+          </value>
+        </entry>
+        <entry key="java:S2203">
+          <value>
+            <Rule key="java:S2203" />
+          </value>
+        </entry>
+        <entry key="java:S2208">
+          <value>
+            <Rule key="java:S2208" />
+          </value>
+        </entry>
+        <entry key="java:S2211">
+          <value>
+            <Rule key="java:S2211" />
+          </value>
+        </entry>
+        <entry key="java:S2221">
+          <value>
+            <Rule key="java:S2221" />
+          </value>
+        </entry>
+        <entry key="java:S2250">
+          <value>
+            <Rule key="java:S2250" />
+          </value>
+        </entry>
+        <entry key="java:S2260">
+          <value>
+            <Rule key="java:S2260" />
+          </value>
+        </entry>
+        <entry key="java:S2301">
+          <value>
+            <Rule key="java:S2301" />
+          </value>
+        </entry>
+        <entry key="java:S2308">
+          <value>
+            <Rule key="java:S2308" />
+          </value>
+        </entry>
+        <entry key="java:S2309">
+          <value>
+            <Rule key="java:S2309" />
+          </value>
+        </entry>
+        <entry key="java:S2325">
+          <value>
+            <Rule key="java:S2325" />
+          </value>
+        </entry>
+        <entry key="java:S2333">
+          <value>
+            <Rule key="java:S2333" />
+          </value>
+        </entry>
+        <entry key="java:S2384">
+          <value>
+            <Rule key="java:S2384" />
+          </value>
+        </entry>
+        <entry key="java:S2444">
+          <value>
+            <Rule key="java:S2444" />
+          </value>
+        </entry>
+        <entry key="java:S2658">
+          <value>
+            <Rule key="java:S2658" />
+          </value>
+        </entry>
+        <entry key="java:S2693">
+          <value>
+            <Rule key="java:S2693" />
+          </value>
+        </entry>
+        <entry key="java:S2694">
+          <value>
+            <Rule key="java:S2694" />
+          </value>
+        </entry>
+        <entry key="java:S2698">
+          <value>
+            <Rule key="java:S2698" />
+          </value>
+        </entry>
+        <entry key="java:S2701">
+          <value>
+            <Rule key="java:S2701" />
+          </value>
+        </entry>
+        <entry key="java:S2959">
+          <value>
+            <Rule key="java:S2959" />
+          </value>
+        </entry>
+        <entry key="java:S2972">
+          <value>
+            <Rule key="java:S2972" />
+          </value>
+        </entry>
+        <entry key="java:S2973">
+          <value>
+            <Rule key="java:S2973" />
+          </value>
+        </entry>
+        <entry key="java:S2974">
+          <value>
+            <Rule key="java:S2974" />
+          </value>
+        </entry>
+        <entry key="java:S3030">
+          <value>
+            <Rule key="java:S3030" />
+          </value>
+        </entry>
+        <entry key="java:S3032">
+          <value>
+            <Rule key="java:S3032" />
+          </value>
+        </entry>
+        <entry key="java:S3047">
+          <value>
+            <Rule key="java:S3047" />
+          </value>
+        </entry>
+        <entry key="java:S3052">
+          <value>
+            <Rule key="java:S3052" />
+          </value>
+        </entry>
+        <entry key="java:S3242">
+          <value>
+            <Rule key="java:S3242" />
+          </value>
+        </entry>
+        <entry key="java:S3254">
+          <value>
+            <Rule key="java:S3254" />
+          </value>
+        </entry>
+        <entry key="java:S3306">
+          <value>
+            <Rule key="java:S3306" />
+          </value>
+        </entry>
+        <entry key="java:S3366">
+          <value>
+            <Rule key="java:S3366" />
+          </value>
+        </entry>
+        <entry key="java:S3414">
+          <value>
+            <Rule key="java:S3414" />
+          </value>
+        </entry>
+        <entry key="java:S3437">
+          <value>
+            <Rule key="java:S3437" />
+          </value>
+        </entry>
+        <entry key="java:S3553">
+          <value>
+            <Rule key="java:S3553" />
+          </value>
+        </entry>
+        <entry key="java:S3578">
+          <value>
+            <Rule key="java:S3578" />
+          </value>
+        </entry>
+        <entry key="java:S3658">
+          <value>
+            <Rule key="java:S3658" />
+          </value>
+        </entry>
+        <entry key="java:S3725">
+          <value>
+            <Rule key="java:S3725" />
+          </value>
+        </entry>
+        <entry key="java:S3749">
+          <value>
+            <Rule key="java:S3749" />
+          </value>
+        </entry>
+        <entry key="java:S3750">
+          <value>
+            <Rule key="java:S3750" />
+          </value>
+        </entry>
+        <entry key="java:S3937">
+          <value>
+            <Rule key="java:S3937" />
+          </value>
+        </entry>
+        <entry key="java:S4174">
+          <value>
+            <Rule key="java:S4174" />
+          </value>
+        </entry>
+        <entry key="java:S4248">
+          <value>
+            <Rule key="java:S4248" />
+          </value>
+        </entry>
+        <entry key="java:S4266">
+          <value>
+            <Rule key="java:S4266" />
+          </value>
+        </entry>
+        <entry key="java:S4288">
+          <value>
+            <Rule key="java:S4288" />
+          </value>
+        </entry>
+        <entry key="java:S4551">
+          <value>
+            <Rule key="java:S4551" />
+          </value>
+        </entry>
+        <entry key="java:S4604">
+          <value>
+            <Rule key="java:S4604" />
+          </value>
+        </entry>
+        <entry key="java:S4605">
+          <value>
+            <Rule key="java:S4605" />
+          </value>
+        </entry>
+        <entry key="java:S4926">
+          <value>
+            <Rule key="java:S4926" />
+          </value>
+        </entry>
+        <entry key="java:S5128">
+          <value>
+            <Rule key="java:S5128" />
+          </value>
+        </entry>
+        <entry key="java:S5194">
+          <value>
+            <Rule key="java:S5194" />
+          </value>
+        </entry>
+        <entry key="java:S5612">
+          <value>
+            <Rule key="java:S5612" />
+          </value>
+        </entry>
+        <entry key="java:S5793">
+          <value>
+            <Rule key="java:S5793" />
+          </value>
+        </entry>
+        <entry key="java:S5867">
+          <value>
+            <Rule key="java:S5867" />
+          </value>
+        </entry>
+        <entry key="java:S5970">
+          <value>
+            <Rule key="java:S5970" />
+          </value>
+        </entry>
+        <entry key="java:S5977">
+          <value>
+            <Rule key="java:S5977" />
+          </value>
+        </entry>
+        <entry key="java:S5979">
+          <value>
+            <Rule key="java:S5979" />
+          </value>
+        </entry>
+        <entry key="java:S6073">
+          <value>
+            <Rule key="java:S6073" />
+          </value>
+        </entry>
+        <entry key="java:S6211">
+          <value>
+            <Rule key="java:S6211" />
+          </value>
+        </entry>
+        <entry key="java:S6212">
+          <value>
+            <Rule key="java:S6212" />
+          </value>
+        </entry>
+        <entry key="java:S6411">
+          <value>
+            <Rule key="java:S6411" />
+          </value>
+        </entry>
+        <entry key="java:S818">
+          <value>
+            <Rule key="java:S818" />
+          </value>
+        </entry>
+        <entry key="java:S864">
+          <value>
+            <Rule key="java:S864" />
+          </value>
+        </entry>
+        <entry key="java:S881">
+          <value>
+            <Rule key="java:S881" />
+          </value>
+        </entry>
+        <entry key="java:S888">
+          <value>
+            <Rule key="java:S888" />
+          </value>
+        </entry>
+        <entry key="java:S923">
+          <value>
+            <Rule key="java:S923" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -33,6 +727,145 @@
         </SonarQubeServer>
       </list>
     </option>
-    <rules />
+    <rules>
+      <Rule key="java:S1258" />
+      <Rule key="java:S5979" />
+      <Rule key="java:S3437" />
+      <Rule key="java:S1774" />
+      <Rule key="java:S4926" />
+      <Rule key="java:S1132" />
+      <Rule key="java:S2196" />
+      <Rule key="java:S2197" />
+      <Rule key="java:S3047" />
+      <Rule key="java:S5867" />
+      <Rule key="java:S818" />
+      <Rule key="java:S3725" />
+      <Rule key="java:S1641" />
+      <Rule key="java:S1244" />
+      <Rule key="java:S1120" />
+      <Rule key="java:S5194" />
+      <Rule key="java:S3052" />
+      <Rule key="java:S4266" />
+      <Rule key="java:S3578" />
+      <Rule key="java:S1996" />
+      <Rule key="java:S1194" />
+      <Rule key="java:S6211" />
+      <Rule key="java:S2250" />
+      <Rule key="java:S2096" />
+      <Rule key="java:S2131" />
+      <Rule key="java:S4551" />
+      <Rule key="java:S6212" />
+      <Rule key="java:S1109" />
+      <Rule key="java:S1108" />
+      <Rule key="java:S5128" />
+      <Rule key="java:S1228" />
+      <Rule key="java:S1107" />
+      <Rule key="java:S1106" />
+      <Rule key="java:S1105" />
+      <Rule key="java:S2658" />
+      <Rule key="java:S1188" />
+      <Rule key="java:S1067" />
+      <Rule key="java:S3749" />
+      <Rule key="java:S2260" />
+      <Rule key="java:S2141" />
+      <Rule key="java:S4288" />
+      <Rule key="java:S2384" />
+      <Rule key="java:S2143" />
+      <Rule key="java:S3750" />
+      <Rule key="java:S2301" />
+      <Rule key="java:S2148" />
+      <Rule key="java:S1699" />
+      <Rule key="java:S4604" />
+      <Rule key="java:S1698" />
+      <Rule key="java:S2701" />
+      <Rule key="java:S1213" />
+      <Rule key="java:S1696" />
+      <Rule key="java:S4605" />
+      <Rule key="java:S1695" />
+      <Rule key="java:S2308" />
+      <Rule key="java:S1694" />
+      <Rule key="java:S1451" />
+      <Rule key="java:S1176" />
+      <Rule key="java:S2309" />
+      <Rule key="java:S6073" />
+      <Rule key="java:S4174" />
+      <Rule key="java:S3242" />
+      <Rule key="java:S118" />
+      <Rule key="java:S3366" />
+      <Rule key="java:S2156" />
+      <Rule key="java:S1449" />
+      <Rule key="java:S1448" />
+      <Rule key="java:S113" />
+      <Rule key="java:S2039" />
+      <Rule key="java:S1200" />
+      <Rule key="java:S1166" />
+      <Rule key="java:S2959" />
+      <Rule key="java:S1162" />
+      <Rule key="java:S1160" />
+      <Rule key="java:S5793" />
+      <Rule key="java:S2162" />
+      <Rule key="java:S2164" />
+      <Rule key="java:S3254" />
+      <Rule key="java:S109" />
+      <Rule key="java:S103" />
+      <Rule key="java:S2047" />
+      <Rule key="java:S2444" />
+      <Rule key="java:S864" />
+      <Rule key="java:S105" />
+      <Rule key="java:S1315" />
+      <Rule key="java:S1711" />
+      <Rule key="java:S2203" />
+      <Rule key="java:S104" />
+      <Rule key="java:S1314" />
+      <Rule key="java:S2325" />
+      <Rule key="java:S3414" />
+      <Rule key="java:S1312" />
+      <Rule key="java:S3658" />
+      <Rule key="java:S1310" />
+      <Rule key="java:S2208" />
+      <Rule key="java:S3937" />
+      <Rule key="java:S1151" />
+      <Rule key="java:NoSonar" />
+      <Rule key="java:S134" />
+      <Rule key="java:S139" />
+      <Rule key="java:S2693" />
+      <Rule key="java:S1309" />
+      <Rule key="java:S2694" />
+      <Rule key="java:S2057" />
+      <Rule key="java:S6411" />
+      <Rule key="java:S2211" />
+      <Rule key="java:S2333" />
+      <Rule key="java:S1943" />
+      <Rule key="java:S2059" />
+      <Rule key="java:S2972" />
+      <Rule key="java:S138" />
+      <Rule key="java:S2698" />
+      <Rule key="java:S1821" />
+      <Rule key="java:S1942" />
+      <Rule key="java:S2973" />
+      <Rule key="java:S1820" />
+      <Rule key="java:S1941" />
+      <Rule key="java:S2974" />
+      <Rule key="java:S3306" />
+      <Rule key="java:S1147" />
+      <Rule key="java:S1541" />
+      <Rule key="java:S1142" />
+      <Rule key="java:S121" />
+      <Rule key="java:S881" />
+      <Rule key="java:S122" />
+      <Rule key="java:S3030" />
+      <Rule key="java:S1939" />
+      <Rule key="java:S2063" />
+      <Rule key="java:S3032" />
+      <Rule key="java:S888" />
+      <Rule key="java:S5970" />
+      <Rule key="java:S923" />
+      <Rule key="java:S2221" />
+      <Rule key="java:S3553" />
+      <Rule key="java:S4248" />
+      <Rule key="java:S5612" />
+      <Rule key="java:S5977" />
+      <Rule key="java:S126" />
+    </rules>
   </component>
 </application>
