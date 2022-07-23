@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="SonarLint: Server Notifications" displayType="STICKY_BALLOON" playSound="true" />
+  </component>
+</application>
