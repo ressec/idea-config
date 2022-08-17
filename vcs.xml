@@ -6,9 +6,17 @@
           <option name="url" value="git@github.com:hemajoo-commerce/cherry-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.kyndryl.net/SRRM/VITKyndryl4.5.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.kyndryl.net" />
+          <option name="userName" value="christophe-resse" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/commerce" />
+    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.kyndryl.net/srrm" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
