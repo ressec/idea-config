@@ -9,6 +9,9 @@
     <driver id="h2.unified">
       <artifact id="H2" name="H2" use="true" version="1.4.200" />
     </driver>
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.15" />
+    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
