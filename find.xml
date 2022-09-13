@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/persistence/src/main/java/com/hemajoo/commerce/cherry/microservice/document/persistence/config/JpaAuditor.java [cherry-microservice-document-persistence]'" />
-    <option name="defaultScopeName" value="File '…/persistence/src/main/java/com/hemajoo/commerce/cherry/microservice/document/persistence/config/JpaAuditor.java [cherry-microservice-document-persistence]'" />
-    <option name="SEARCH_SCOPE" value="File '…/persistence/src/main/java/com/hemajoo/commerce/cherry/microservice/document/persistence/config/JpaAuditor.java [cherry-microservice-document-persistence]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
