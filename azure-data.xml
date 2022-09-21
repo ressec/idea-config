@@ -2,6 +2,7 @@
   <component name="Azure Toolkit for IntelliJ">
     <option name="properties">
       <map>
+        <entry key="account.auth_configuration_cache" value="{&quot;type&quot;:&quot;OAUTH2&quot;,&quot;client&quot;:&quot;04b07795-8ddb-461a-bbee-02f9e1bf7b46&quot;,&quot;tenant&quot;:&quot;d1c719f7-cc48-4f9f-83ec-f706a2a940fe&quot;,&quot;environment&quot;:&quot;azure&quot;,&quot;certificate&quot;:null,&quot;username&quot;:&quot;christophe.resse@kyndryl.onmicrosoft.com&quot;,&quot;selectedSubscriptions&quot;:[&quot;68248c40-ff35-498f-91c9-cd90083ca77a&quot;]}" />
         <entry key="account.auth_method_detail" value="{&quot;accountEmail&quot;:&quot;Christophe.Resse@kyndryl.com&quot;,&quot;tenantId&quot;:null,&quot;clientId&quot;:&quot;04b07795-8ddb-461a-bbee-02f9e1bf7b46&quot;,&quot;credFilePath&quot;:null,&quot;certificate&quot;:null,&quot;authMethod&quot;:&quot;IDENTITY&quot;,&quot;azureEnv&quot;:&quot;AzureCloud&quot;,&quot;authType&quot;:&quot;OAUTH2&quot;,&quot;tenantIds&quot;:[],&quot;subscriptions&quot;:[]}" />
         <entry key="account.azure_environment" value="Azure" />
         <entry key="account.subscriptions_json" value="" />
