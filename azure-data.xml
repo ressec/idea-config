@@ -8,7 +8,7 @@
         <entry key="account.subscriptions_json" value="" />
         <entry key="guidance.guidance_shown" value="true" />
         <entry key="telemetry.telemetry_allow_telemetry" value="true" />
-        <entry key="telemetry.telemetry_plugin_version" value="3.67.0-2022.2" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.68.1-2022.2" />
       </map>
     </option>
   </component>
