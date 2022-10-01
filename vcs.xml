@@ -42,6 +42,10 @@
           <option name="url" value="git@github.com:hemajoo-education/spring-queue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hemajoo-education/wow-event.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/education" />
