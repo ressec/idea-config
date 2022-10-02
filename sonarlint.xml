@@ -725,6 +725,12 @@
           <option name="name" value="Hemajoo" />
           <organizationKey>hemajoo</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df98dfcfdf9ddfcbdf9fdf92df93df99df9edf9adfcbdfcedf98df99dfcedf9cdf92dfcedfc8df99df9ddf99df9bdf9ddf9adfccdf9ddfccdfc9df9edf9bdfcbdf92df98dfcbdf9cdfcbdf9cdf9bdf93</token>
+          <option name="name" value="Hemajoo Education" />
+          <organizationKey>hemajoo-education</organizationKey>
+        </SonarQubeServer>
       </list>
     </option>
     <rules>
