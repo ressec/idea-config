@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/src/main/java/com/hemajoo/education/spring/amqp/basics/SpringAmqpBasicsApplication.java'" />
-    <option name="defaultScopeName" value="File '…/src/main/java/com/hemajoo/education/spring/amqp/basics/SpringAmqpBasicsApplication.java'" />
-    <option name="SEARCH_SCOPE" value="File '…/src/main/java/com/hemajoo/education/spring/amqp/basics/SpringAmqpBasicsApplication.java'" />
+    <option name="customScope" value="File '…/src/main/resources/application.properties'" />
+    <option name="defaultScopeName" value="File '…/src/main/resources/application.properties'" />
+    <option name="SEARCH_SCOPE" value="File '…/src/main/resources/application.properties'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
