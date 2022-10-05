@@ -58,9 +58,13 @@
           <option name="url" value="git@github.com:hemajoo-education/spring-amqp-basics.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hemajoo-education/com.hemajoo.education.spring-amqp-consumer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/education/spring" />
+    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/education/spring/amqp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
