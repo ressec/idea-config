@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="cassandra">
+      <artifact id="Cassandra" name="Cassandra" use="true" version="1.4" />
+    </driver>
     <driver id="db2.11">
       <artifact id="DB2" name="DB2" use="true" version="4.26.14" />
     </driver>
