@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/hemajoo-i18n/src/main/java/com/hemajoo/i18n/core/translation/engine/google [hemajoo-i18n]'" />
-    <option name="defaultScopeName" value="Directory '…/hemajoo-i18n/src/main/java/com/hemajoo/i18n/core/translation/engine/google [hemajoo-i18n]'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/hemajoo-i18n/src/main/java/com/hemajoo/i18n/core/translation/engine/google [hemajoo-i18n]'" />
+    <option name="customScope" value="Directory '…/hemajoo-i18n/src/main/java/com/hemajoo/i18n/core [hemajoo-i18n]'" />
+    <option name="defaultScopeName" value="Directory '…/hemajoo-i18n/src/main/java/com/hemajoo/i18n/core [hemajoo-i18n]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/hemajoo-i18n/src/main/java/com/hemajoo/i18n/core [hemajoo-i18n]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
