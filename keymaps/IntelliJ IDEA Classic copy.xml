@@ -1,5 +1,6 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt #10000e9" />
+    <keyboard-shortcut first-keystroke="meta alt numpad2" />
   </action>
 </keymap>
