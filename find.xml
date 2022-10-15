@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/vit-persistence/src/main/resources/application.properties [vit-persistence]'" />
-    <option name="defaultScopeName" value="File '…/vit-persistence/src/main/resources/application.properties [vit-persistence]'" />
-    <option name="SEARCH_SCOPE" value="File '…/vit-persistence/src/main/resources/application.properties [vit-persistence]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
