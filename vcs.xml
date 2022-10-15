@@ -96,7 +96,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/hemajoo/plugin" />
+    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/plugin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
