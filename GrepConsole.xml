@@ -83,7 +83,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="style">
                         <GrepStyle>
@@ -97,14 +96,14 @@
                             <GrepColor>
                               <option name="color" value="-4475785" />
                               <option name="colorKey" value="GrepConsole.info.foreground" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value="DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -124,7 +123,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -143,6 +141,47 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".TRACE." />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="sound">
+                        <Sound>
+                          <option name="path" value="" />
+                        </Sound>
+                      </option>
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-663885" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".DEBUG." />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-6054730" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-13321416" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value="" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
               </GrepExpressionGroup>
@@ -151,9 +190,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*successfully sunset.*" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="showCountInConsole" value="true" />
                       <option name="showCountInStatusBar" value="true" />
                       <option name="style">
