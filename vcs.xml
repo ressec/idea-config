@@ -98,9 +98,13 @@
           <option name="url" value="git@github.com:hemajoo-commerce/plugin-translator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hemajoo/hemajoo-icons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project/github.com/hemajoo-commerce/plugin" />
+    <option name="cloneParentDir" value="/Volumes/Technology/Code/github.com/hemajoo/home" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
