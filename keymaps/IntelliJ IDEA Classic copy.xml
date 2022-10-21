@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="meta alt #10000e9" />
     <keyboard-shortcut first-keystroke="meta alt numpad2" />
   </action>
+  <action id="Show Actions Popup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
 </keymap>
